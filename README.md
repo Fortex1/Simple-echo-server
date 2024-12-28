@@ -1,4 +1,4 @@
-# Simple-echo-server-
+# Simple-echo-server
 This project aims to demonstrate the module's operation socket.
 ## How to install?
 1. Clone this repository.
